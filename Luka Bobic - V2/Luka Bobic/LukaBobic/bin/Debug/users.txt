@@ -1,0 +1,3 @@
+dsadas|test1|123|Petar|Peric|Administratior
+dasdasdsa|test2|123|Mika|Mikic|Farmaceut
+dasdas|test3|123|Zika|Zikic|Lekar

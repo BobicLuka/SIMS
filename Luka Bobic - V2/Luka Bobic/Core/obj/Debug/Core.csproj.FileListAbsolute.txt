@@ -1,0 +1,9 @@
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\Core.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\Core.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\Model.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\CompositeCommon.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\Model.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\bin\Debug\CompositeCommon.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\obj\Debug\Core.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Core\obj\Debug\Core.pdb

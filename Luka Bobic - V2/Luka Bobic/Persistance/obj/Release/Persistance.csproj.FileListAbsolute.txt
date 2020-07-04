@@ -1,0 +1,11 @@
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Persistance.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Persistance.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\CompositeCommon.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Core.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Model.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\CompositeCommon.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Core.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\bin\Release\Model.pdb
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\obj\Release\Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\obj\Release\Persistance.dll
+C:\Users\Rukavina\Desktop\SIMS Luka Bobic\Luka Bobic - V2\Luka Bobic\Persistance\obj\Release\Persistance.pdb
